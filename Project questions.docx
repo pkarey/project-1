@@ -1,0 +1,50 @@
+#Edits to Questions
+
+
+How frequently is the given data listening to each genre of music?
+- The better question could be "Popular genre across age group"
+
+
+Based on the frequency of classical (all genres) of music shows improvement (no improvement) with anxiety, aggression, insomnia and or OCD? (this will generate a few questions)
+- This is good.
+
+
+If listening to (given genre) several hours per day this will improve or not improve the mental outcome
+- This is good. 
+
+
+Which is the more prominent group (age) that listens to a specific genre of music?
+- This will be covered in the first question.
+
+
+How likely is someone going to listen to a specific genre of music?
+- We can predict based on our findings. (not machine learning algo)
+
+
+If a higher or lower age group listens (name of genre) this will have a negative or positive impact on mental functioning.
+- I do not think we have that information
+
+
+BPM (beats per minute) over 100 to reflect anxiety, aggression, insomnia and or OCD?
+- we can highlight a trend of average BPM per genre to see which genre is most soothing or also any outlier.
+
+
+Data profiling to clean any missing data -- like on a given day where data is missing How can this influence the data and results of music impacting mental functioning 
+- this is good
+
+
+Additional thoughts:
+- Total Survey Participant
+- People listening to music while working or not, the most popular genre in either case by age category
+- Popular streaming service across age groups, and working or not working
+- Identifying outliers/discrepancies 
+--- by hours spent on music
+--- by checking age, time spent and working or not
+--- inaccurate BPM
+--- People are listening to the same genre as their favorite 
+--- is a person instrumentalist or composer 
+--- people using streaming services and they are composers or instrumentalists
+
+
+-  we can also propose based on this data what business problem can be solved.
+--- A genre recommendation based on diseases.
