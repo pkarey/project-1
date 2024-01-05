@@ -11,7 +11,7 @@ Using the starter code we received from [Music & Mental Health Survey Results](h
 
 # 1. Analyze: We need to prep data and import data from Pandas, Numpy, and Matplotlip
 
-# 2. Steps
+# 2. Steps:
     Step 1 - Add age group to make it categorical
     Step 2 - Make features numerical to make it easy for analysis
     Step 3 - Replace nulls with appropriate values
@@ -21,7 +21,7 @@ Using the starter code we received from [Music & Mental Health Survey Results](h
 # Variable Initialization: Store data from our CSV and declare variables used with each function
 
 # Data Input: From CSV
-# Data Processing
+# Data Processing:
 
     #1. Created an age_group variable with age being defined to show the popular genre of music amongst the 700 participants
     #2. Used if else function to determine the age group amongst the data and return an error for all defined age groups
@@ -37,7 +37,7 @@ Using the starter code we received from [Music & Mental Health Survey Results](h
     
 # Data Output: Displayed in Graphs within Code
 
-# 4 Test: Conclusion 
+# 4. Test: Conclusion 
 Results show a higher number of rock music being the preferred genre amongst the participants and that consistent listening to LOFI music produces higher numbers of negative mental impact.
 
 # References
