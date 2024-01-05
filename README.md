@@ -1,23 +1,28 @@
-#Project-1
+# Project-1
 
-#Data Bootcamp Project 1
+# Data Bootcamp Project 1
 In this project, Patrick K, Jessica S, and Derick N used data from the CSV.file regarding data on Music & Mental Health Survey Results 
 Catherine Rasgaitis (Owner of Data)
 
-#Problem: Display the survey results of over 700 participants to reflect on how listening to music impacts mental health
+# Problem: Display the survey results of over 700 participants to reflect on how listening to music impacts mental health
 #Data Preparation
 
 Using the starter code we received from [ref_actual_link_of_website](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
 
-#1. Analyze: We need to prep data and import data from Pandas, Numpy, and Matplotlip
+# 1. Analyze: We need to prep data and import data from Pandas, Numpy, and Matplotlip
 
-#2. Step 1 - Add age group to make it categorical
+# 2. 
+    Step 1 - Add age group to make it categorical
     Step 2 - Make features numerical to make it easy for analysis
     Step 3 - Replace nulls with appropriate values
-#3. Code: Instructions
-#Variable Initialization: Store data from our CSV and declare variables used with each function
-#Data Input: From CSV
-#Data Processing
+
+# 3. Code: Instructions
+
+# Variable Initialization: Store data from our CSV and declare variables used with each function
+
+# Data Input: From CSV
+# Data Processing
+
     #1. Created an age_group variable with age being defined to show the popular genre of music amongst the 700 participants
     #2. Used if else function to determine the age group amongst the data and return an error for all defined age groups
     #3. Display the age of the probability of the age group of users listening to music. Display the results using the print function
@@ -29,9 +34,10 @@ Using the starter code we received from [ref_actual_link_of_website](https://www
     #9. Create a bar plot for the most popular genre by age group and Display it in paragraph 
     #10. Count the number of occurrences of each streaming service in each age group
     Plot the data
-#Data Output
+    
+# Data Output
 
-#4 Test: Conclusion 
+# 4 Test: Conclusion 
 Results show a higher number of rock music being the preferred genre amongst the participants and that consistent listening to LOFI music produces higher numbers of negative mental impact.
 
 #References
