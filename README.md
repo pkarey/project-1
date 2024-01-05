@@ -11,7 +11,7 @@ Using the starter code we received from [Music & Mental Health Survey Results](h
 
 # 1. Analyze: We need to prep data and import data from Pandas, Numpy, and Matplotlip
 
-# 2. 
+# 2. Steps
     Step 1 - Add age group to make it categorical
     Step 2 - Make features numerical to make it easy for analysis
     Step 3 - Replace nulls with appropriate values
