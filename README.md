@@ -33,7 +33,7 @@ Using the starter code we received from [ref_actual_link_of_website](https://www
     #8. Set the style for the plot
     #9. Create a bar plot for the most popular genre by age group and Display it in paragraph 
     #10. Count the number of occurrences of each streaming service in each age group
-    Plot the data
+    #11. Plot the data
     
 # Data Output
 
