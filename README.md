@@ -7,7 +7,7 @@ Catherine Rasgaitis (Owner of Data)
 # Problem: Display the survey results of over 700 participants to reflect on how listening to music impacts mental health
 #Data Preparation
 
-Using the starter code we received from [ref_actual_link_of_website](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
+Using the starter code we received from [Music & Mental Health Survey Results](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
 
 # 1. Analyze: We need to prep data and import data from Pandas, Numpy, and Matplotlip
 
