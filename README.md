@@ -35,7 +35,7 @@ Using the starter code we received from [ref_actual_link_of_website](https://www
     #10. Count the number of occurrences of each streaming service in each age group
     #11. Plot the data
     
-# Data Output
+# Data Output: Displayed in Graphs within Code
 
 # 4 Test: Conclusion 
 Results show a higher number of rock music being the preferred genre amongst the participants and that consistent listening to LOFI music produces higher numbers of negative mental impact.
